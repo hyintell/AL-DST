@@ -25,7 +25,7 @@ Follow [KAGE-GPT2](https://github.com/LinWeizheDragon/Knowledge-Aware-Graph-Enha
 
 ## Model
 
-We implement AL-DST using two base DST models, namly [KAGE-GPT2](https://github.com/LinWeizheDragon/Knowledge-Aware-Graph-Enhanced-GPT-2-for-Dialogue-State-Tracking) and [PPTOD](https://github.com/awslabs/pptod). Follow each folder to run active learning with DST.
+We implement AL-DST using two base DST models, namely [KAGE-GPT2](https://github.com/LinWeizheDragon/Knowledge-Aware-Graph-Enhanced-GPT-2-for-Dialogue-State-Tracking) and [PPTOD](https://github.com/awslabs/pptod). Follow each folder to run active learning with DST.
 
 
 **Run KAGE-GPT2 with AL**
