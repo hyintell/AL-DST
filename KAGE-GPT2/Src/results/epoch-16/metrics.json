@@ -1,0 +1,156 @@
+{
+    "attraction area": {
+        "cls_acc": 0.974091,
+        "notnone_cls_acc": 0.974091,
+        "span_acc": 0
+    },
+    "attraction name": {
+        "cls_acc": 0.932176,
+        "notnone_cls_acc": 0.932176,
+        "span_acc": 0
+    },
+    "attraction type": {
+        "cls_acc": 0.970157,
+        "notnone_cls_acc": 0.970157,
+        "span_acc": 0
+    },
+    "hotel area": {
+        "cls_acc": 0.971921,
+        "notnone_cls_acc": 0.971921,
+        "span_acc": 0
+    },
+    "hotel day": {
+        "cls_acc": 0.987113,
+        "notnone_cls_acc": 0.987113,
+        "span_acc": 0
+    },
+    "hotel internet": {
+        "cls_acc": 0.977889,
+        "notnone_cls_acc": 0.977889,
+        "span_acc": 0
+    },
+    "hotel name": {
+        "cls_acc": 0.927835,
+        "notnone_cls_acc": 0.927835,
+        "span_acc": 0
+    },
+    "hotel parking": {
+        "cls_acc": 0.975583,
+        "notnone_cls_acc": 0.975583,
+        "span_acc": 0
+    },
+    "hotel people": {
+        "cls_acc": 0.986164,
+        "notnone_cls_acc": 0.986164,
+        "span_acc": 0
+    },
+    "hotel pricerange": {
+        "cls_acc": 0.979517,
+        "notnone_cls_acc": 0.979517,
+        "span_acc": 0
+    },
+    "hotel stars": {
+        "cls_acc": 0.978703,
+        "notnone_cls_acc": 0.978703,
+        "span_acc": 0
+    },
+    "hotel stay": {
+        "cls_acc": 0.987927,
+        "notnone_cls_acc": 0.987927,
+        "span_acc": 0
+    },
+    "hotel type": {
+        "cls_acc": 0.948996,
+        "notnone_cls_acc": 0.948996,
+        "span_acc": 0
+    },
+    "restaurant area": {
+        "cls_acc": 0.970293,
+        "notnone_cls_acc": 0.970293,
+        "span_acc": 0
+    },
+    "restaurant day": {
+        "cls_acc": 0.989148,
+        "notnone_cls_acc": 0.989148,
+        "span_acc": 0
+    },
+    "restaurant food": {
+        "cls_acc": 0.970836,
+        "notnone_cls_acc": 0.970836,
+        "span_acc": 0
+    },
+    "restaurant name": {
+        "cls_acc": 0.91427,
+        "notnone_cls_acc": 0.91427,
+        "span_acc": 0
+    },
+    "restaurant people": {
+        "cls_acc": 0.988877,
+        "notnone_cls_acc": 0.988877,
+        "span_acc": 0
+    },
+    "restaurant pricerange": {
+        "cls_acc": 0.974769,
+        "notnone_cls_acc": 0.974769,
+        "span_acc": 0
+    },
+    "restaurant time": {
+        "cls_acc": 0.983315,
+        "notnone_cls_acc": 0.983315,
+        "span_acc": 0
+    },
+    "taxi arriveby": {
+        "cls_acc": 0.986978,
+        "notnone_cls_acc": 0.986978,
+        "span_acc": 0
+    },
+    "taxi departure": {
+        "cls_acc": 0.972192,
+        "notnone_cls_acc": 0.972192,
+        "span_acc": 0
+    },
+    "taxi destination": {
+        "cls_acc": 0.973142,
+        "notnone_cls_acc": 0.973142,
+        "span_acc": 0
+    },
+    "taxi leaveat": {
+        "cls_acc": 0.982366,
+        "notnone_cls_acc": 0.982366,
+        "span_acc": 0
+    },
+    "train arriveby": {
+        "cls_acc": 0.9844,
+        "notnone_cls_acc": 0.9844,
+        "span_acc": 0
+    },
+    "train day": {
+        "cls_acc": 0.98318,
+        "notnone_cls_acc": 0.98318,
+        "span_acc": 0
+    },
+    "train departure": {
+        "cls_acc": 0.969886,
+        "notnone_cls_acc": 0.969886,
+        "span_acc": 0
+    },
+    "train destination": {
+        "cls_acc": 0.974769,
+        "notnone_cls_acc": 0.974769,
+        "span_acc": 0
+    },
+    "train leaveat": {
+        "cls_acc": 0.972599,
+        "notnone_cls_acc": 0.972599,
+        "span_acc": 0
+    },
+    "train people": {
+        "cls_acc": 0.978568,
+        "notnone_cls_acc": 0.978568,
+        "span_acc": 0
+    },
+    "general": {
+        "joint_acc": 0.518855,
+        "slot_acc": 0.972255
+    }
+}
